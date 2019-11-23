@@ -1,0 +1,14 @@
+/root/Documentos/ProjetosPortfolio/SpiderOficial/bin/Debug/netcoreapp3.0/SpiderOficial
+/root/Documentos/ProjetosPortfolio/SpiderOficial/bin/Debug/netcoreapp3.0/SpiderOficial.deps.json
+/root/Documentos/ProjetosPortfolio/SpiderOficial/bin/Debug/netcoreapp3.0/SpiderOficial.runtimeconfig.json
+/root/Documentos/ProjetosPortfolio/SpiderOficial/bin/Debug/netcoreapp3.0/SpiderOficial.runtimeconfig.dev.json
+/root/Documentos/ProjetosPortfolio/SpiderOficial/bin/Debug/netcoreapp3.0/SpiderOficial.dll
+/root/Documentos/ProjetosPortfolio/SpiderOficial/bin/Debug/netcoreapp3.0/SpiderOficial.pdb
+/root/Documentos/ProjetosPortfolio/SpiderOficial/obj/Debug/netcoreapp3.0/SpiderOficial.csprojAssemblyReference.cache
+/root/Documentos/ProjetosPortfolio/SpiderOficial/obj/Debug/netcoreapp3.0/SpiderOficial.AssemblyInfoInputs.cache
+/root/Documentos/ProjetosPortfolio/SpiderOficial/obj/Debug/netcoreapp3.0/SpiderOficial.AssemblyInfo.cs
+/root/Documentos/ProjetosPortfolio/SpiderOficial/obj/Debug/netcoreapp3.0/SpiderOficial.dll
+/root/Documentos/ProjetosPortfolio/SpiderOficial/obj/Debug/netcoreapp3.0/SpiderOficial.pdb
+/root/Documentos/ProjetosPortfolio/SpiderOficial/bin/Debug/netcoreapp3.0/HtmlAgilityPack.dll
+/root/Documentos/ProjetosPortfolio/SpiderOficial/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+/root/Documentos/ProjetosPortfolio/SpiderOficial/obj/Debug/netcoreapp3.0/SpiderOficial.csproj.CopyComplete
