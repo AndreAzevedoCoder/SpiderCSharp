@@ -12,3 +12,6 @@
 /root/Documentos/ProjetosPortfolio/SpiderOficial/bin/Debug/netcoreapp3.0/HtmlAgilityPack.dll
 /root/Documentos/ProjetosPortfolio/SpiderOficial/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
 /root/Documentos/ProjetosPortfolio/SpiderOficial/obj/Debug/netcoreapp3.0/SpiderOficial.csproj.CopyComplete
+/root/Documentos/ProjetosPortfolio/SpiderOficial/bin/Debug/netcoreapp3.0/Knapcode.TorSharp.dll
+/root/Documentos/ProjetosPortfolio/SpiderOficial/bin/Debug/netcoreapp3.0/SharpCompress.dll
+/root/Documentos/ProjetosPortfolio/SpiderOficial/bin/Debug/netcoreapp3.0/System.ServiceModel.Syndication.dll
